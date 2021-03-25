@@ -2,7 +2,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="GitHubRepository" title="#GoStack" src="./assets/banner.png" />
+    <img alt="Tela Inicial MoveIt" title="#MoveIt" src="./assetsReadme/1.png" />
 </h1>
 
 <p align="center">
@@ -26,10 +26,10 @@ O moveIt é um projeto desenvolvido durante o evento NLW-04. Trata-se de um cron
 ### Tela de Adição e Listagem de Repositórios
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Repositorios" title="#goStack" src="./assets/banner.png" width="400px">
+  <img alt="Repositorios" title="#goStack" src="./assetsReadme/1.png" width="400px">
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="ListRepositorios" title="#goStack" src="./assets/banner2.png" width="400px">
+  <img alt="ListRepositorios" title="#goStack" src="./assetsReadme/banner2.png" width="400px">
 </p>
 
 ---
