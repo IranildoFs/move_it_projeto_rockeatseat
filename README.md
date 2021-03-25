@@ -23,7 +23,7 @@ O moveIt é um projeto desenvolvido durante o evento NLW-04. Trata-se de um cron
 
 ## 🎨 Layout
 
-### Tela de Adição e Listagem de Repositórios
+### Tela do MoveIt
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Repositorios" title="#goStack" src="./assetsReadme/1.png" width="400px">
